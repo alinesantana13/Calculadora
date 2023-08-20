@@ -5,14 +5,18 @@ O projeto é uma aplicação front-end com back-end, para desenvolver uma calcul
 ### Front-end do servidor
 ![](./img/tela.png)
 
-Como rodar:
+### Como rodar:
+
 1º Baixar o projeto ou dar um git clone;
-2º No terminal digitar 'npm init';
+<br>
+2º No terminal digitar 'npm install';
+<br>
 3º Depois digitar 'npm run start'
+<br>
 4º Abrir no servidor com a rota 'http://localhost:4000/'
 
 ```javascript
-Aí só digitar os números e escolher a operação que deseja realizar com eles.
+Após iniciar o servidor, será exibido uma tela, aí só digitar os números e escolher a operação que deseja realizar com eles.
 ```
 ### Código das operações:
 ![](./img/operacoes.png)
