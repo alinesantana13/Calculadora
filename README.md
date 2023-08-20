@@ -1,6 +1,6 @@
 # Calculadora
 
-O projeto é uma aplicação front-end com back-end, para desenvolver uma calculadora com as 4 operações báscias no servidor.
+O projeto é uma aplicação front-end com back-end, para desenvolver uma calculadora com as 4 operações báscias no servidor. Na parte do front-end utilizei o HTML, CSS e JavaScript, já na parte do back-end utilizei JavaScript, o framework Express.js e o Node.js.
 
 ### Front-end do servidor
 ![](./img/tela.png)
