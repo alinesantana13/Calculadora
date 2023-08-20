@@ -1,0 +1,43 @@
+body {
+    background: url("./img/numbers.jpg")
+}
+
+td,
+th {
+    padding: .7em;
+    margin: 0;
+    text-align: center;
+}
+
+td {
+    font-weight: bold;
+}
+
+table {
+    margin: auto auto;
+    table-layout: fixed;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+#title {
+    color: white;
+    font-size: 25px;
+    margin-left: 40%;
+    margin-top: 10%;
+
+
+}
+
+button {
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+#n1,
+#n2 {
+    border-radius: 4px;
+    padding: 3px;
+}
