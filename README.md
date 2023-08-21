@@ -21,6 +21,8 @@ Após iniciar o servidor, será exibido uma tela, aí só digitar os números e 
 ### Código das operações:
 ![](./img/operacoes.png)
 
+#### <a href="https://alinesantana13.github.io/Calculadora/src/">Link para acessar no navegador</a>
+
 ### Tecnologias utilizadas:
 <div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
